@@ -1,6 +1,6 @@
-# bulb
+# Bulb
 
-A new Flutter application.
+Sample Bulb application
 
 ## Getting Started
 
